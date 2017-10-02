@@ -1,1 +1,0 @@
-<?php dynamic_sidebar('Merchandise sidebar');?>
